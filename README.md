@@ -8,7 +8,7 @@ This is a Microsoft Power BI project on sales analysis of an imaginary store cal
 
 Below is a dashboard for all visualizations
 
-![](Superstore Dashboard.JPG)
+![](superstore_dashboard.JPG)
 
 ## Skills / Concepts Demonstrated
 The following Microsoft Power BI skills were incorporated: importation and cleaning, exploratory analysis, data manipulation, and visualization.
